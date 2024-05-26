@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\Baccarat.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\BaccaratCard.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\BaccaratHand.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\Card.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\CardCollection.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\CardException.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\GameEngine.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\GameStatistics.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\Shoe.java">
+</file>
+<file name="C:\Users\nenja\IdeaProjects\CW2_23-24 (final)\CW2_23-24 (test)\cwk2\src\main\java\ThirdCardRules.java">
+</file>
+</checkstyle>
